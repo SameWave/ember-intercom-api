@@ -1,4 +1,9 @@
 {
   "name": "ember-intercom-api",
-  "dependencies": {}
+  "dependencies": {
+    "ember": "components/ember#release"
+  },
+  "resolutions": {
+    "ember": "release"
+  }
 }
